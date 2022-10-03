@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\App.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\AdresseIp.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\Commande.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\Dns.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\DnsApp.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\DnsItem.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\DnsTui.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\NomMachine.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\Quit.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\RechercheDomaine.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\RechercheIp.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice1\RechercheNomMachine.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice2\Cercle.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice2\Figure.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice2\InterfaceUtilisateur.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice2\Point.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice2\Rectangle.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice2\Triangle.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice3\Employe.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice3\Exercice3Run.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice3\Requests.java">
+</file>
+<file name="C:\Users\HP\Desktop\TP3 Cmpl_Prog\collex-uvsq22107541\src\main\java\fr\uvsq\cprog\collex\exercice3\Service.java">
+</file>
+</checkstyle>
